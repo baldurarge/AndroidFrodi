@@ -1,0 +1,18 @@
+/* Empty. Add your own CSS if you like */
+.fullIon{
+  background-color: #ffd007 !important;
+}
+.cars-list{
+  margin-top: 47px !important;
+}
+.message{
+  margin-top: 50px !important;
+  color: #ffffff;
+  font-family: 'Raleway',sans-serif;
+  font-size: 62px;
+  font-weight: 500;
+  line-height: 72px;
+  margin: 0 0 14px;
+  text-align: center;
+  text-transform: uppercase;
+}
